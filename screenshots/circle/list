@@ -1,1 +1,20 @@
-List of screenshots
+List of screenshots:
+
+Double2dView.tiff:
+  Shows domain and range views.
+  
+Double3dView.tiff:
+  Shows gameDomain and gameRange views.
+  
+2d+3dView.tiff:
+  Shows domain and gameDomain views.
+  
+ComplexCircleGraphed.tiff:
+  Shows a graph of the complex circle.
+  
+ComplexCircleView1.tiff,
+ComplexCircleView2.tiff,
+ComplexCircleView3.tiff,
+ComplexCircleView4.tiff:
+  Shows the complex circle graphed at different 3d cross
+  sections of the x variable's imaginary component.
